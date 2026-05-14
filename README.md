@@ -7,3 +7,5 @@ Here's what the app offers.
 - Support for custom "Own" servers, allowing for fast access to personal servers with the click of a button, no wasting time in the Roblox app looking for the server you want to join!
 - Toggleable Clipboard watching with a delay of up to 25 milliseconds (25ms).
 - Smart saving of your desired "Own" link and path to the Roblox application in a `config.json`
+
+## MAKE SURE TO PUT THE APP IN A FOLDER OF ITS OWN, NOT JUST IN DOWNLOADS (please.)
